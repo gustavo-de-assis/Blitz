@@ -1,0 +1,10 @@
+ESSA É UMA VERSÃO DE TESTE. ALGUNS BUGS PODEM EXISTIR,
+ASSIM COMO MEMORY LEAK.
+
+Esse é um jogo com propósito educativo apenas.
+A venda ou distribuição não são permitidas.
+
+Musicas e/ou imagens contidas no mesmo podem ter
+direitos autorais.
+
+Obrigado por jogar. 
